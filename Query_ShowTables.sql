@@ -1,7 +1,6 @@
 USE LibrarySystem;
 
 SELECT * FROM department;
-SELECT * FROM library_shelf;
 SELECT * FROM author;
 SELECT * FROM genre;
 SELECT * FROM publishing;
